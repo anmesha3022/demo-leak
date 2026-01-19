@@ -1,0 +1,5 @@
+org:securenexus-dev filename:.env
+org:securenexus-dev "password"
+org:securenexus-dev filename:config.js
+org:securenexus-dev extension:json "client_secret"
+org:securenexus-dev filename:settings.py "SECRET_KEY"
